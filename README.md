@@ -3,7 +3,7 @@
 # Muhammad Ali Ashraf
 ### Full-Stack Software Engineer
 
-*Software Engineering — COMSATS University Islamabad*
+*Bachelor of Sciencec in Software Engineering — COMSATS University Islamabad*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-ali-ashraf-9096842b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.alee.ashraf@gmail.com)
