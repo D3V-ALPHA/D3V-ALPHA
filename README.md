@@ -3,7 +3,7 @@
 # Muhammad Ali Ashraf
 ### Full-Stack Software Engineer
 
-*BSc Software Engineering — COMSATS University Islamabad*
+*Software Engineering — COMSATS University Islamabad*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-ali-ashraf-9096842b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.alee.ashraf@gmail.com)
@@ -17,7 +17,7 @@
 
 I'm a **Solutions-oriented Full-Stack Software Engineer** from COMSATS University Islamabad with a passion for building clean, scalable, and production-ready systems. I bring hands-on experience across the full stack — from database schema design to polished React interfaces — with a strong foundation in DevOps practices.
 
-- 🎓 **BSc Software Engineering** — COMSATS University Islamabad, Attock Campus (2020–2024)
+- 🎓 **Bachelor of Sciencec Software Engineering** — COMSATS University Islamabad, Attock Campus (2020–2024)
 - 💼 **Ex DevOps Engineer Intern** — SOFTOO (A Brillanz Group Company), Islamabad
 - 🏆 **President & Consultant** — Official COMSATS Media Team
 - 🌍 Based in **Attock, Punjab, Pakistan**
