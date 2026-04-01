@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a **Solutions-oriented Full-Stack Software Engineer** from COMSATS University Islamabad with a passion for building clean, scalable, and production-ready systems. I bring hands-on experience across the full stack — from database schema design to polished React interfaces — with a strong foundation in DevOps practices.
+As a **Solutions-oriented Full-Stack Software Engineer** from COMSATS University Islamabad, I build clean, scalable, and production-ready systems. I combine hands-on full-stack development experience with a solid foundation in DevOps to deliver high-quality, end-to-end solutions.
 
 - 🎓 **Bachelor of Sciencec Software Engineering** — COMSATS University Islamabad, Attock Campus (2020–2024)
 - 💼 **Ex DevOps Engineer Intern** — SOFTOO (A Brillanz Group Company), Islamabad
@@ -191,7 +191,7 @@ A **production-ready full-stack LMS** demonstrating scalable architecture, real-
 
 <div align="center">
 
-*"Committed to contributing to organizational success by leveraging current skills and pursuing advanced training — dedicated to becoming a valuable asset in every team I join."*
+*"I am committed to delivering high-quality solutions and continuously learning to remain a valuable asset to every team I join..."*
 
 </div>
 
