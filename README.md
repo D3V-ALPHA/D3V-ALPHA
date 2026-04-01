@@ -1,9 +1,11 @@
 <div align="center">
 
 # Muhammad Ali Ashraf
-### Full-Stack Software Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;DevOps+Enthusiast;Building+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-*Bachelor of Sciencec in Software Engineering — COMSATS University Islamabad*
+*Bachelor of Science in Software Engineering — COMSATS University Islamabad*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-ali-ashraf-9096842b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.alee.ashraf@gmail.com)
@@ -82,27 +84,57 @@ I'm a **Solutions-oriented Full-Stack Software Engineer** from COMSATS Universit
 
 ## 🚀 Featured Project
 
+<div align="center">
+
 ### 🎓 Course Management System (CMS)
-> A full-stack LMS built as a technical assessment — demonstrating production-level engineering across the entire stack.
 
-**What it does:**
-- Teachers create courses, add and reorder lessons via drag-and-drop
-- Students browse, enroll, and track lesson completion with live progress bars
-- Real-time activity feed updates live across all clients via WebSockets and Redis pub/sub
+<div align="center">
 
-**Technical highlights:**
-- 🔐 JWT auth with access + refresh token rotation and role-based guards
-- ⚡ Redis pub/sub fully decoupled from WebSocket layer — horizontally scalable
-- 📊 Server-side progress calculation scoped per course — prevents cross-course contamination
-- 🎨 Dark/light theme, skeleton loading states, Framer Motion animations throughout
-- 🐳 Single command Docker startup — `docker compose up`
+<a href="https://github.com/D3V-ALPHA/CMS">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D3V-ALPHA&repo=CMS&theme=tokyonight&hide_border=true" />
+</a>
 
-**Stack:** NestJS · React · PostgreSQL · Redis · Drizzle ORM · TanStack Query · Zustand · shadcn/ui · Docker
+</div>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3V-ALPHA/CMS)
+</div>
 
 ---
 
+### 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/D3V-ALPHA/CMS/main/screenshots/student-dashboard.png.PNG" width="700"/>
+  <img src="https://raw.githubusercontent.com/D3V-ALPHA/CMS/main/screenshots/teacher-dashboard.png.PNG" width="700"/>
+</p>
+
+---
+
+### 💡 Overview
+
+A **production-ready full-stack LMS** demonstrating scalable architecture, real-time systems, and clean UI/UX.
+
+### ⚙️ Key Features
+
+- 🔐 JWT Auth (Access + Refresh rotation)
+- ⚡ Real-time updates via WebSockets + Redis Pub/Sub
+- 📊 Course-based progress tracking system
+- 🎨 Modern UI with animations & dark/light mode
+- 🐳 Dockerized — one command setup
+
+### 🧠 Tech Stack
+
+`NestJS` · `React` · `PostgreSQL` · `Redis` · `Drizzle ORM` · `Docker` . `TanStack Query` · `Zustand` · `shadcn/ui`
+
+---
+
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3V-ALPHA/CMS)
+
+</div>
+
+---
 ## 💼 Work Experience
 
 ### DevOps Engineer Intern — SOFTOO (A Brillanz Group Company)
@@ -130,7 +162,7 @@ I'm a **Solutions-oriented Full-Stack Software Engineer** from COMSATS Universit
 ## 🏆 Recognitions & Awards
 
 - 🥇 Multiple awards for outstanding performance and contributions across university societies
-- 🎖️ Most recent award for outstanding service as **President** and later **Consultant** of the Official COMSATS Media Team
+- 🎖️ Award for outstanding service as **President** and later **Consultant** of the Official COMSATS Media Team
 
 ---
 
@@ -138,9 +170,13 @@ I'm a **Solutions-oriented Full-Stack Software Engineer** from COMSATS Universit
 
 <div align="center">
 
-![Muhammad Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3V-ALPHA&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=D3V-ALPHA&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D3V-ALPHA&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D3V-ALPHA&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=D3V-ALPHA&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3V-ALPHA&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -156,5 +192,11 @@ I'm a **Solutions-oriented Full-Stack Software Engineer** from COMSATS Universit
 <div align="center">
 
 *"Committed to contributing to organizational success by leveraging current skills and pursuing advanced training — dedicated to becoming a valuable asset in every team I join."*
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/D3V-ALPHA/D3V-ALPHA/output/github-contribution-grid-snake.svg" />
 
 </div>
