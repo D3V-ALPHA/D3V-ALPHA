@@ -1,9 +1,8 @@
 <div align="center">
 
 # Muhammad Ali Ashraf
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;DevOps+Enthusiast;Building+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
-</p>
+
+### Software Engineer
 
 *Bachelor of Science in Software Engineering — COMSATS University Islamabad*
 
@@ -17,13 +16,15 @@
 
 ## 👋 About Me
 
-As a **Solutions-oriented Full-Stack Software Engineer** from COMSATS University Islamabad, I build clean, scalable, and production-ready systems. I combine hands-on full-stack development experience with a solid foundation in DevOps to deliver high-quality, end-to-end solutions.
+I'm a **Solutions-oriented Software Engineer** from COMSATS University Islamabad, currently building at **ServiqForge**. I build clean, scalable, production-ready systems — combining full-stack development experience with a solid DevOps foundation to deliver end-to-end solutions.
 
-- 🎓 **Bachelor of Sciencec Software Engineering** — COMSATS University Islamabad, Attock Campus (2020–2024)
-- 💼 **Ex DevOps Engineer Intern** — SOFTOO (A Brillanz Group Company), Islamabad
+- 💼 **Software Engineer** — ServiqForge
+- 🎓 **Bachelor of Science, Software Engineering** — COMSATS University Islamabad, Attock Campus (2020–2024)
+- 🛠️ **Ex DevOps Engineer Intern** — SOFTOO (A Brillanz Group Company), Islamabad
 - 🏆 **President & Consultant** — Official COMSATS Media Team
-- 🌍 Based in **Attock, Punjab, Pakistan**
-- 🤖 Passionate about **AI, emerging technologies, and continuous learning**
+- 🐧 Comfortable living in **Linux** — command line first, always
+- 📡 Currently moving toward **Network Security & Automation Engineering**, building on my DevOps and software development background
+- 🌍 Based in **Pakistan**
 
 ---
 
@@ -56,6 +57,7 @@ As a **Solutions-oriented Full-Stack Software Engineer** from COMSATS University
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -73,69 +75,40 @@ As a **Solutions-oriented Full-Stack Software Engineer** from COMSATS University
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔭 Currently Working On
-![Full Stack](https://img.shields.io/badge/Full_Stack_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps_Practices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Browser Extensions
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase Realtime DB](https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 New Interests
+---
+
+## 🧠 Skills & Interests
+
+**Artificial Intelligence & Machine Learning**
+
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
----
 
-## 🚀 Featured Project
+**New Direction — Network Security & Automation**
 
-<div align="center">
+Bringing my DevOps background, hands-on Linux command-line depth, and software engineering experience into networking:
 
-### 🎓 Course Management System (CMS)
-
-<div align="center">
-
-<a href="https://github.com/D3V-ALPHA/CMS">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=D3V-ALPHA&repo=CMS&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-</div>
+![Network Automation](https://img.shields.io/badge/Network_Automation_Engineering-003366?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA_Aspirant-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-critical?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-### 📸 Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/D3V-ALPHA/CMS/main/screenshots/student-dashboard.png.PNG" width="700"/>
-  <img src="https://raw.githubusercontent.com/D3V-ALPHA/CMS/main/screenshots/teacher-dashboard.png.PNG" width="700"/>
-</p>
-
----
-
-### 💡 Overview
-
-A **production-ready full-stack LMS** demonstrating scalable architecture, real-time systems, and clean UI/UX.
-
-### ⚙️ Key Features
-
-- 🔐 JWT Auth (Access + Refresh rotation)
-- ⚡ Real-time updates via WebSockets + Redis Pub/Sub
-- 📊 Course-based progress tracking system
-- 🎨 Modern UI with animations & dark/light mode
-- 🐳 Dockerized — one command setup
-
-### 🧠 Tech Stack
-
-`NestJS` · `React` · `PostgreSQL` · `Redis` · `Drizzle ORM` · `Docker` . `TanStack Query` · `Zustand` · `shadcn/ui`
-
----
-
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3V-ALPHA/CMS)
-
-</div>
-
----
 ## 💼 Work Experience
+
+### Software Engineer — ServiqForge
+*Present*
+
+- Building and maintaining production software systems as part of the engineering team
 
 ### DevOps Engineer Intern — SOFTOO (A Brillanz Group Company)
 *Islamabad · January 2024*
@@ -166,22 +139,6 @@ A **production-ready full-stack LMS** demonstrating scalable architecture, real-
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=D3V-ALPHA&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D3V-ALPHA&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=D3V-ALPHA&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3V-ALPHA&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 ## 💬 Languages
 
 - 🇵🇰 **Urdu** — Native
@@ -191,12 +148,6 @@ A **production-ready full-stack LMS** demonstrating scalable architecture, real-
 
 <div align="center">
 
-*"I am committed to delivering high-quality solutions and continuously learning to remain a valuable asset to every team I join..."*
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/D3V-ALPHA/D3V-ALPHA/output/github-contribution-grid-snake.svg" />
+*"I am committed to delivering high-quality solutions and continuously learning to remain a valuable asset to every team I join."*
 
 </div>
